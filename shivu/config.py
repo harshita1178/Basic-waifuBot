@@ -7,7 +7,7 @@ class Config(object):
     GROUP_ID = -1002636451157
     TOKEN = "7777554185:AAG9zpq6bdDbVDIL_fMuNaVQLa8Kj92uoSg"
     mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
-    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
+    PHOTO_URL = ["https://graph.org/file/e7141e5486f22f92e35dd-1159f787abdf660245.jpg", "https://graph.org/file/4335bf26d5b8de64a5aa2-caced1ff4b83d82478.jpg"]
     SUPPORT_CHAT = "t.me/voixVerse_Group_Chat"
     UPDATE_CHAT = "https://t.me/+Gq6FEGLuwa5mMDBl"
     BOT_USERNAME = "BasicWaifuBot"
